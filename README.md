@@ -1,4 +1,8 @@
 # Proofcert
+<p align="center">
+  <img src="Screenshot%202025-10-29%20145829.png" alt="ProofCert Screenshot" width="600">
+</p>
+
 
 # 🧾 ProofCert - Immutable Credential Registry
 
