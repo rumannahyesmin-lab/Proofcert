@@ -1,5 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
+<p align="center">
+  <img src="Screenshot%202025-10-29%20145829.png" alt="ProofCert Screenshot" width="600">
+</p>
 
 // A simple contract for storing immutable proof of earned credentials
 contract ProofCert {
